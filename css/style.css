@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+body{
+	background-color: yellow;
+	transition: 900ms;
+}
+h1{
+	font-family: 'Sriracha', cursive;
+	margin-left: 427px;
+}
+img{
+	width:261px;
+	height: 287px;
+}
+p{
+	font-size: 25px;
+	font-family: 'Sriracha', cursive;
+}
+*{
+	margin: 0;
+	padding: 0;
+
+}
+a{
+	text-decoration: none;
+}
+
+.menu{
+ width: 900px;
+ margin: 30px auto;
+ text-align: center;
+border:3px solid blue;
+padding: 8px;
+background-color: #00ffee;
+border-radius: 16px;
+
+}
+.menu a{
+color: red;
+font-size: 20px;
+margin:0 10px ;
+text-decoration: none;
+font-family: 'Sriracha', cursive;
+transition: 1s;
+}
+.menu a:hover{
+	color: #a11500;
+}
+.texto{
+	font-size: 25px;
+	font-family: 'Sriracha', cursive;
+	margin: 70px;
+	margin-left: 226px;
+}
+.texto2{
+	margin: 70px;
+	margin-left: 226px;
+}
+.Mensagem{
+	width: 363px;
+    height: 228px;
+	font-family: 'Sriracha', cursive;
+	border-radius: 8px;
+
+}
+button{
+	font-family: 'Sriracha', cursive;
+  padding-top: 16px;
+    padding-right: 100px;
+    padding-left: 101px;
+    padding-bottom: 18px;
+   border-radius: 31px;
+   background-color: #17e800;
+   cursor: pointer;
+}
+form{
+	margin-left: 488px;
+	position: absolute;
+}
+label{
+	font-family: 'Sriracha', cursive;
+}
+input{
+	    width: 249px;
+    height: 31px;
+	font-family: 'Sriracha', cursive;
+	border-radius: 12px;
+}
+.cursos li{
+	list-style: none;
+}
+.cursos{
+	display: flex;
+	border:2px solid black;
+	padding: 0px;
+}
+.dev_games{
+    width: 536px;
+    margin-left: 396px;
+}
+#titulo{
+	margin-left: 611px;
+    margin-bottom: -37px;
+}
